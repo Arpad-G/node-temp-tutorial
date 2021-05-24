@@ -1,0 +1,1 @@
+her is the rusult : Hello this is first text file, Hello this is second text file,{flag: 'a'}her is the rusult : Hello this is first text file, Hello this is second text fileher is the rusult : Hello this is first text file, Hello this is second text file
